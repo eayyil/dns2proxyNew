@@ -1,7 +1,4 @@
-# dns2proxyNew
-
-Error-free version
-Compatible with Python3
+# dns2proxy  
  
 Offensive DNS server  
   
@@ -163,6 +160,3 @@ Another example
     Address: 68.142.243.179  
     Name:   wwww.yahoo.com  
     Address: 68.180.206.184  
-    
-    Edited by eayyil
-    Owner: LeonardoNve
