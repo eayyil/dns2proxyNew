@@ -1,4 +1,7 @@
-# dns2proxy  
+# dns2proxyNew
+
+Error-free version
+Compatible with Python3
  
 Offensive DNS server  
   
